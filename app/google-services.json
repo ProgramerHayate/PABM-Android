@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538840472595",
+    "project_id": "sprint0-54f67",
+    "storage_bucket": "sprint0-54f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538840472595:android:c74695df05c562e871b3e6",
+        "android_client_info": {
+          "package_name": "com.example.daloga1.aplicacionmovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538840472595-pv44dd4ogpenrsm74f3fnpabin6okfpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIU4yLka6biHvvjp4gjvhfYNZAX2FF2Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538840472595-pv44dd4ogpenrsm74f3fnpabin6okfpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
