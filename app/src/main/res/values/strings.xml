@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplicacionMovil</string>
+    <string name="actualizar_medida">Actualizar medida</string>
+    <string name="medida_de_ozono">Medida de Ozono</string>
+    <string name="envier_medida_11111">Envier medida 11111</string>
+    <string name="leer_medida">Leer medida</string>
+    <string name="enviar_medida_222222">enviar medida 222222</string>
+</resources>
